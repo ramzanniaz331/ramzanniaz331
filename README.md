@@ -1,6 +1,6 @@
 # Hi there, I'm Ramzan! 👋
 
-🚀 **Machine Learning Engineer | Specializing in NLP, LLMs, RAGs & AI Solutions**
+🚀 **Machine Learning Engineer | Specializing in NLP, LLMs, RAGs, GenAI & AI Solutions**
 
 ---
 
