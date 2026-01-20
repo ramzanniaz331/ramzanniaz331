@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 
-I am a passionate **Machine Learning Engineer** with hands-on experience in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, **Generative AI**and AI-driven solutions. With a Master's degree in **Data Science** from the **National University of Sciences and Technology (NUST), Islamabad, Pakistan**, I thrive on building intelligent systems that push the boundaries of AI.
+I am a passionate **Machine Learning Engineer** with hands-on experience in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, **Generative AI** and AI-driven solutions. With a Master's degree in **Data Science** from the **National University of Sciences and Technology (NUST), Islamabad, Pakistan**, I thrive on building intelligent systems that push the boundaries of AI.
 
 ### 🔬 What I'm Working On
 
