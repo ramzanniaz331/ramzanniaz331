@@ -1,4 +1,4 @@
-# Hi there, I'm Ramzan! 👋
+# Hi there, I'm Ramzan Niaz!
 
 🚀 **Machine Learning Engineer | Specializing in NLP, LLMs, RAGs, GenAI & AI Solutions**
 
