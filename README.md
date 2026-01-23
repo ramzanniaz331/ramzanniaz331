@@ -26,7 +26,7 @@ I enjoy connecting with like-minded professionals and researchers who are enthus
 - 💼 **LinkedIn:** [@ramzanniaz331](https://www.linkedin.com/in/ramzanniaz331/)  
 - 👨‍💻 **GitHub:** [@ramzanniaz331](https://github.com/ramzanniaz331)  
 
-### 🌱 Always Learning
+### Always Learning
 
 I believe in continuous learning and growth. Whether it's keeping up with the latest research papers, open-source contributions, or engaging in AI communities, I'm always exploring new frontiers in AI, Machine Learning, and Computer Vision.
 
