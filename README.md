@@ -15,7 +15,7 @@ I am a passionate **Machine Learning Engineer** with hands-on experience in **La
 - 📖 Currently **exploring AI Agents and autonomous workflows** to understand their potential in AI-driven automation.
 - 🛠️ Continuously improving my expertise in **Machine Learning, NLP, Computer Vision, and AI Infrastructure**.
 
-### 🤝 Let's Collaborate
+### Let's Collaborate
 
 I enjoy connecting with like-minded professionals and researchers who are enthusiastic about AI-driven solutions. If you’re working on something innovative in **LLMs, RAG, Computer Vision, or AI automation**, let’s discuss how we can create something impactful together! 
 
