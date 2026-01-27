@@ -19,7 +19,7 @@ I am a passionate **Machine Learning Engineer** with hands-on experience in **La
 
 I enjoy connecting with like-minded professionals and researchers who are enthusiastic about AI-driven solutions. If you’re working on something innovative in **LLMs, RAG, Computer Vision, or AI automation**, let’s discuss how we can create something impactful together! 
 
-### 📫 Reach Out to Me
+### Reach Out to Me
 
 - 📧 **Email:** ramzanniaz331@gmail.com  
 - 🐦 **Twitter/X:** [@ramzanniaz331](https://twitter.com/ramzanniaz331)  
