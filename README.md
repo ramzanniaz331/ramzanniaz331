@@ -13,7 +13,7 @@ I am a passionate **Machine Learning Engineer** with hands-on experience in **La
 - **Building LLM-powered applications** with RAG-based pipelines for enhanced retrieval and reasoning.
 - **Developing Computer Vision applications**, leveraging deep learning for tasks such as image recognition, object detection, and scene understanding.
 - Currently **exploring AI Agents and autonomous workflows** to understand their potential in AI-driven automation.
-- 🛠️ Continuously improving my expertise in **Machine Learning, NLP, Computer Vision, and AI Infrastructure**.
+- Continuously improving my expertise in **Machine Learning, NLP, Computer Vision, and AI Infrastructure**.
 
 ### Let's Collaborate
 
