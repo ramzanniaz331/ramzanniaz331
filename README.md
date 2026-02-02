@@ -32,7 +32,7 @@ I believe in continuous learning and growth. Whether it's keeping up with the la
 
 ---
 
-*Feel free to connect and discuss innovative AI ideas!* 🚀
+*Feel free to connect and discuss innovative AI ideas!*
 
 
 
