@@ -21,7 +21,7 @@ I enjoy connecting with like-minded professionals and researchers who are enthus
 
 ### Reach Out to Me
 
-- 📧 **Email:** ramzanniaz331@gmail.com  
+- **Email:** ramzanniaz331@gmail.com  
 - 🐦 **Twitter/X:** [@ramzanniaz331](https://twitter.com/ramzanniaz331)  
 - 💼 **LinkedIn:** [@ramzanniaz331](https://www.linkedin.com/in/ramzanniaz331/)  
 - 👨‍💻 **GitHub:** [@ramzanniaz331](https://github.com/ramzanniaz331)  
