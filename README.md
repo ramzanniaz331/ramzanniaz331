@@ -1,6 +1,6 @@
 # Hi there, I'm Ramzan Niaz!
 
-**Machine Learning Engineer | Specializing in NLP, LLMs, RAGs, GenAI & AI Solutions**
+**Machine Learning Engineer | Specializing in NLP, LLMs, RAGs, GenAI & n8n AI Solutions**
 
 ---
 
@@ -23,8 +23,8 @@ I enjoy connecting with like-minded professionals and researchers who are enthus
 
 - **Email:** ramzanniaz331@gmail.com  
 - **Twitter/X:** [@ramzanniaz331](https://twitter.com/ramzanniaz331)  
-- 💼 **LinkedIn:** [@ramzanniaz331](https://www.linkedin.com/in/ramzanniaz331/)  
-- 👨‍💻 **GitHub:** [@ramzanniaz331](https://github.com/ramzanniaz331)  
+- **LinkedIn:** [@ramzanniaz331](https://www.linkedin.com/in/ramzanniaz331/)  
+- **GitHub:** [@ramzanniaz331](https://github.com/ramzanniaz331)  
 
 ### Always Learning
 
